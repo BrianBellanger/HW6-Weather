@@ -33,7 +33,7 @@ function storeCity () {
 };
 
 function getWeather (location) {
-    var apiUrl = 'http://api.openweathermap.org/data/2.5/weather?q=' + location + '&appid=2febd22c729bf7b99b9f79af03e82de4&units=imperial';
+    var apiUrl = 'https://api.openweathermap.org/data/2.5/weather?q=' + location + '&appid=2febd22c729bf7b99b9f79af03e82de4&units=imperial';
     fetch(apiUrl).then (function(response){
             if (response.ok){
                 response.json().then(function(currentData){

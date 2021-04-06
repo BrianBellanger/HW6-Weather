@@ -6,7 +6,7 @@ Homework 6 - Weather Forecast
 - ran out of time for additional code and polish
 
 URL:
-https://brianbellanger.github.io/HW6-Weather/
+http://brianbellanger.github.io/HW6-Weather/
 
 Github Repository:
 
