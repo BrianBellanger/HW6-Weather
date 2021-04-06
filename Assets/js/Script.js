@@ -59,7 +59,7 @@ function renderCities () {
         li.classList.add("list-group-item");
         previousSearch.appendChild(li)[i];
     }
-} 
+}
 
 var displayWeather = function (currentForecast, searchLocation) {
     if (currentForecast.length === 0) {
