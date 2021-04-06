@@ -1,4 +1,3 @@
-// DOM Variables
 var cityInputEl = document.querySelector(".cityForm");
 var cityListEl = document.querySelector(".cityList");
 var searchBtn = document.getElementById("button-addon");
